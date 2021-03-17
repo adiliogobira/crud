@@ -34,8 +34,3 @@ para poder acessar, pode usar o comando abaixo
 ``
 php artisan serve
 ``
-
-## O sistema já alimenta o banco com 6 Operadores
-Os valores das Tarifas a serem preenchidas pode ser no padrão brasileiro ou Americano, que funciona do mesmo jeito.
-
-
