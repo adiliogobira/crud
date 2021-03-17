@@ -8,7 +8,7 @@ Como base de meus conhecimentos no framework, coloquei aqui uma base introdutór
 Para que a instalação possa ser feita, baixe o repositório com o comando
 
 ``
-composer require adiliogobira/crud
+git clone https://github.com/adiliogobira/crud.git
 ``
 
 Após baixar o repositório puxe todas as dependências do projeto com o comando
