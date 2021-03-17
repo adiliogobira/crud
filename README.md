@@ -18,6 +18,7 @@ composer update
 ``
 
 Faça a instalação das dependencias do front-end com o comando
+
 ``
 npm install && npm run production
 ``
